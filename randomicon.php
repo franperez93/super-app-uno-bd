@@ -3,7 +3,7 @@
 $datosconexion = array(
 	"servername" => "104.47.161.60", 		// PON AQUI LA IP DE TU SERVIDOR
 	"username" => "root", 			// PON AQUI EL USUARIO DE LA BD
-	"password" => "Azure1", 			// PON AQUI LA CONTRASEÑA DE LA BD
+	"password" => "", 			// PON AQUI LA CONTRASEÑA DE LA BD
 	"dbname" => "log"
 	);
 
